@@ -1,18 +1,15 @@
-#### Hunter College, City University of New York
-#### Film + Media Studies 
-```
-Web Production - Spring 2022
-MEDP 28500 | January 28 - May 24
-Monday| 1:10 - 4:00pm | North Building 470
-```
-***
-```
-Professor: rebecca (marks) leopold
 
-```
+## MEDP 285: Web Production I, Spring 2022
+#### January 28 - May 24 | Film + Media, Hunter College
+#### Monday 1:10 pm - 4:00 pm || North Building 470
+
+	Professor: rebecca (marks) leopold
+	Email: rebleo@nyu.edu || rl1697@hunter.cuny.edu
+	Course Wiki: https://github.com/rebleo/webPrdctnSpring2022/wiki
+
 
 #### Course Description:
-This production course is an introduction to authoring code for the web through the lens of visual culture and networked media. Participants will explore granular techniques for design and programming including HTML, CSS, JavaScript and various JS frameworks. The goal is to introduce various fundamental interactive technologies to present a clear understanding of how they interrelate. Media content will be generated to consider creative process for web distribution - ie FILE SIZE. Weekly readings and discussions will examine how networked media can be employed to question power structures, increase political action and create aesthetic experiences.
+This production course is an introduction to authoring code for the web through the lens of visual culture and networked media. Participants will explore granular techniques for design and programming including HTML, CSS, JavaScript and various JS frameworks. The goal is to introduce various fundamental interactive technologies to present a clear understanding of how they interrelate. Media content will be generated to consider creative process for web distribution. Weekly readings and discussions will examine how networked media can be employed to question power structures, increase political action and create aesthetic experiences.
 
 ---
 
@@ -40,7 +37,7 @@ Although you may want your laptop for every class, computers should be closed an
 
 ---
 #### Method of Evaluation:
-1.  Regular assignments (40% of grade): will be executed through the semester by following in class demonstrations + exercises, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects. This includes the "midterm."
+1.  Regular assignments (40% of grade): will be executed through the semester by following in class demonstrations + exercises, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
 
 2. Class Participation (30% of grade): Please arrive to class on time. Please do the assigned readings and come to class prepared to share your reflections - active and informed discussion makes the course more interesting for everyone. Attendance to all classes is required and attendance is taken at each class.
 
@@ -56,12 +53,11 @@ To contribute to the wiki you must set up a [Github](http://www.github.com) acco
 ---
 
 #### Materials:
-* [Txt Editor](https://www.sublimetext.com/) or [Atom]()
+* Txt Editor
 * [Chrome Browser](https://www.google.com/chrome/browser/)
-* [Yr Terminal](https://www.google.com/search?hl=en&q=terminal%20mac%20os)
+* [Yr Terminal](https://www.google.com/search?hl=en&q=terminal%20mac%20os) or [windows powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2)
 * [Github Account](https://www.Github.com/)
-* [Github Pages](http://yourUsername.github.io)
-* [F + M Server](https://fm.hunter.cuny.edu/resources/support/accessing-your-graduate-home-directory/) - optional
+* [F + M Server](https://fm.hunter.cuny.edu/resources/support/accessing-your-graduate-home-directory/)
 
 ---
 
@@ -78,6 +74,9 @@ Subscription to Lynda.com is available through the New York City Library system.
 * [Web Design w/ HTML, CSS, JavaScript + JQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?ie=UTF8&qid=1526310943&sr=8-3&keywords=html+and+css) - Jon Duckett, 2014
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Learn Enough](https://www.learnenough.com/)
+---
+#### [Course Schedule](schedule.md)
+
 ---
 
 ##### Academic Integrity Statement:
