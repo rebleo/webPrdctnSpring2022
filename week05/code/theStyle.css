@@ -3,7 +3,7 @@ body {
 }
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 800px){
     main{
         background-color: black;
     }
@@ -12,8 +12,10 @@ body {
 main {
     font-family: 'Public Sans', sans-serif;
     background-color: white;
+    /* display:flex; */
     
 }
+
 h3 {
     font-family: cursive;
     font-size: 50px;
@@ -32,17 +34,19 @@ a {
 #theNav {
     display: flex;
     background-color: pink;
-    flex-direction: column;
-    align-items: center;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column;
+    align-items: center; */
+  
      margin: 4vw;
 }
 
-#theNav a{
+/* #theNav a{
    background-color: white;
    padding: 2vw;
    margin: 2vw;
    border-radius: 45px;
-}
+} */
 footer{
     background-color: blue;
 }

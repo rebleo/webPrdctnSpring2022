@@ -1,3 +1,43 @@
 body {
     background-color: green;
+   
+}
+
+main {
+    background: yellow;
+    display:flex;
+    margin: 4vw;
+    border: solid black 5px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+p {
+    background-color: pink;
+    padding: 4vw;
+    border-radius: 25px;
+    border: dotted black 3px;
+}
+
+footer {
+ background-color: rebeccapurple;
+ display: flex;
+}
+
+footer:hover{
+    background-color: blue;
+}
+footer button  {
+    padding: 5vw;
+    background-color: pink;
+    border-radius: 50px;
+    margin: 5vw;
+
+}
+
+button:hover{
+    background-color: yellow;
+    font-size: 50px;
+    color: yellow;
 }
