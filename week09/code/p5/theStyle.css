@@ -1,0 +1,12 @@
+body {
+    background-color: black;;
+}
+
+button {
+    padding: 4vw;
+    border-radius: 25px;
+}
+
+button:hover {
+    background-color: yellow;
+}
